@@ -74,12 +74,20 @@
   margin-left: 10px;
 }
 
+.Weather .tempLink {
+  color: #276678;
+}
+
 .Weather .unit {
   font-size: 16px;
   position: relative;
-  top: -30px;
-  margin-left: 0px;
+  top: 7px;
+  margin-left: 5px;
   line-height: 1;
+}
+
+.float-left {
+  float: left;
 }
 
 small {
