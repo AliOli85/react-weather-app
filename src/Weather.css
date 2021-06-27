@@ -5,7 +5,7 @@
   font-weight: 200;
   border-radius: 0.25rem;
   box-shadow: 0px 2px 2px 1px rgba(102, 101, 101, 0.2);
-  padding: 20px;
+  padding: 20px 20px 0;
   background-color: #94b5c0;
 }
 
@@ -93,4 +93,8 @@
 small {
   font-size: 0.8rem;
   color: #535758;
+}
+
+hr {
+  margin: 1rem 0;
 }
